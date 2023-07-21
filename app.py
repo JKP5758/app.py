@@ -4,7 +4,7 @@ def luas_segitiga():
     luas = a * t /2
     print("luas segitiga adalah : ", luas)
 
-luas_segitiga()
+luas_segitiga() #Luas segitiga
 
 def luas_persegi_panjang():
     p = int(input("Masukkan Panjang : "))
@@ -12,4 +12,4 @@ def luas_persegi_panjang():
     luas = p * l
     print("Luas persegi panjang adalah : ", luas)
 
-luas_persegi_panjang()
+luas_persegi_panjang() #Luas Persegi Panjang

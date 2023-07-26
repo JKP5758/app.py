@@ -13,3 +13,5 @@ def luas_persegi_panjang():
     print("Luas persegi panjang adalah : ", luas)
 
 luas_persegi_panjang() #Luas Persegi Panjang
+
+# PC Iqbal 192.168.200

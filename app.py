@@ -14,4 +14,11 @@ def luas_persegi_panjang():
 
 luas_persegi_panjang() #Luas Persegi Panjang
 
+def luas_lingkaran():
+    r = int(input("Masukkan Jari-jari : "))
+    luas = 3.14 * r * r
+    print("Luas Lingkaran adalah :", luas)
+
+luas_lingkaran()
+
 # PC Iqbal 192.168.200
